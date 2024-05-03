@@ -20,6 +20,7 @@ $ git branch
 Về source code sau khi e checkout về: 1. Authenticate fontawesome 
 npm config set "@fortawesome:registry" https://npm.fontawesome.com/
 npm config set "//npm.fontawesome.com/:_authToken" 84DCD093-B330-429B-AFCA-D44A519A1040
+FAPS-HNBD-HKJN-BQTK-2622
 yarn add @fortawesome/fontawesome-pro
 npm install --save @fortawesome/fontawesome-pro
 
